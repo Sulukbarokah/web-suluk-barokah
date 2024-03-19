@@ -1,0 +1,60 @@
+.banner {
+    background: url(Image/Gajebo.jpeg) no-repeat center center;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    
+
+}
+
+div img {
+    margin right: 20px ;
+    display: inline;
+}
+
+.Pesan {
+    background: url(Image/Email-Thread-Deduplication.png)no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: #fff;
+    color: #fff;
+}
+footer {
+    background:#032012;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: #fff;
+    color: #fff;
+}
+
+.kontak{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sosmed h3{
+    color: rgb(252, 252, 252);
+    font-size: 30px;
+    padding: 15px;
+}
+
+.icon {
+    border: solid 1px rgb(57, 197, 54);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.icon a {
+    color: rgb(238, 243, 239);
+    text-decoration: none;
+    padding: 20px;
+}
+.icon a:hover {
+    color: rgb(162, 237, 23);
+}
